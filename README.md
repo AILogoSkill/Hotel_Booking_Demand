@@ -2,6 +2,9 @@
 
 https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/hotel_booking_best_final.ipynb
 
+https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/visualization_final.ipynb
+
+
 # Predicting Cancellation Rates
 
 In this notebook, you will build a machine learning model to predict whether or not a customer cancelled a hotel booking.
