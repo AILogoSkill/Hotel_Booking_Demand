@@ -4,6 +4,8 @@ https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/hotel_boo
 
 https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/visualization_final.ipynb
 
+https://hotelbookingdemand.streamlit.app/
+
 
 # Predicting Cancellation Rates
 
