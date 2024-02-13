@@ -36,7 +36,7 @@ def preprocess_data(df: pd.DataFrame, test=True):
 
     to_encode = ['deposit_type','country']
     for col in to_encode:
-        dummy = pd.get_dummies(X_df[col], prefix=col)
+        dummy = pd.get_dummies(X_df[col], drop_first=True, prefix=col)
         X_df = pd.concat([X_df, dummy], axis=1)
         X_df.drop(col, axis=1, inplace=True)
 
