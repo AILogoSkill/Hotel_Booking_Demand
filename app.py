@@ -70,7 +70,7 @@ def process_side_bar_inputs():
 def sidebar_input_features():
     country = st.sidebar.selectbox("country", ('PRT', 'rare', 'GBR', 'FRA', 'ESP', 'DEU', 'IRL', 'BEL', 'USA', 'CHE'))
 
-    deposit_type = st.sidebar.selectbox("deposit_type", ('Refundable))
+    deposit_type = st.sidebar.selectbox("deposit_type", ('Refundable'))
 
     lead_time = st.sidebar.slider("lead_time", min_value=0, max_value=709, value=200,
                             step=1)
