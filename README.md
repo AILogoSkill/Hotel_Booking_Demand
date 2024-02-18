@@ -1,5 +1,9 @@
 # Hotel_Booking_Demand
 
+
+![image](https://github.com/AILogoSkill/Hotel_Booking_Demand/assets/144710374/a6c75b8c-77e3-4c07-8d7e-94427b37eee1)
+
+
 https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/hotel_booking_best_final.ipynb
 
 https://nbviewer.org/github/AILogoSkill/Hotel_Booking_Demand/blob/main/visualization_final.ipynb
